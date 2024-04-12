@@ -19,3 +19,7 @@ These are resources I've been noting down during my Software Engineering learnin
 - [Camunda](https://camunda.com/)
 - [Astah](https://astah.net/downloads/)
 - [Lucid Chart](https://www.lucidchart.com/)
+
+:computer: git commands
+- to switch between branches: `git checkout my-branch`
+- to update info from master branch `git pull origin main --rebase`
