@@ -10,15 +10,7 @@ These are resources I've been noting down during my Software Engineering learnin
 - Gartner ([Special Reports](https://www.gartner.com/en/products/special-reports))
 - Gartner ([IT Research Reports](https://www.gartner.com/en/information-technology/research/research-index))
 
-:construction: interface prototyping apps
-- [Figma](https://www.figma.com/)
-- [Framer](https://www.framer.com/)
-
-
-:clipboard: process modeling and diagrams
-- [Camunda](https://camunda.com/)
-- [Astah](https://astah.net/downloads/)
-- [Lucid Chart](https://www.lucidchart.com/)
+---
 
 :computer: git commands
 - to list branches in a repository: `git branch`
@@ -32,3 +24,21 @@ These are resources I've been noting down during my Software Engineering learnin
 obs: 
 - origin/main: remote repository
 - main: local repository
+
+---
+
+:page_with_curl: useful documentation
+- [Git Reference Manual](https://git-scm.com/docs)
+
+---
+
+:construction: interface prototyping apps
+- [Figma](https://www.figma.com/)
+- [Framer](https://www.framer.com/)
+
+---
+
+:clipboard: process modeling and diagrams
+- [Camunda](https://camunda.com/)
+- [Astah](https://astah.net/downloads/)
+- [Lucid Chart](https://www.lucidchart.com/)
