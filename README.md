@@ -27,6 +27,7 @@ These are resources I've been noting down during my Software Engineering learnin
 - to update info from master branch `git pull origin main --rebase`
 - to download data from a remote repository to a local repository without merging them: `git fetch`
 - to check de difference between a remote and a local repository after a git fetch: `git diff main origin/main`
+- to merge differences between a remote and a local repository after a git fetch: `git merge origin/main`
 
 obs: 
 - origin/main: remote repository
