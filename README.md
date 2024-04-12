@@ -21,5 +21,6 @@ These are resources I've been noting down during my Software Engineering learnin
 - [Lucid Chart](https://www.lucidchart.com/)
 
 :computer: git commands
+- to list branches in a repository: `git branch`
 - to switch between branches: `git checkout my-branch`
 - to update info from master branch `git pull origin main --rebase`
